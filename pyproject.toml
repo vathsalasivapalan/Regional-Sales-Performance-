@@ -1,0 +1,15 @@
+[project]
+name = "regional-sales-performance"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "jupyter",
+    "streamlit",
+    "plotly",
+]
